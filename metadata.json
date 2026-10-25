@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIDAS - Sistem Informasi Data Siswa",
+  "description": "Sistem Informasi Data Siswa Sekolah berbasis web untuk pengelolaan identitas, data pendidikan, orang tua/wali, kelas, serta laporan administrasi sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
